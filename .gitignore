@@ -14,5 +14,4 @@
 
 # Ignore database.yml ,secret.yml
 /config/database.yml
-/config/secrets.yml
 /config/application.yml
